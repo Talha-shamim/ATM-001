@@ -7,6 +7,7 @@ Just :<br />
 Make your Account<br />   
 And start Checking for various Features <br /> 
 You will be given an Account No. do remember for later using your account, yes your Pin too which you can surely change later<br /> 
+Also Remember your Favorite Word In case you forget Your password <br/>
 
 
 Features :<br /> 
