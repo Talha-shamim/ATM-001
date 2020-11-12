@@ -15,16 +15,16 @@ Features :<br />
 -> Account Info<br /> 
 -> Withdrawal<br /> 
 -> Admin Control :<br /> 
-   -> Applying Limit of transaction<br /> 
-   -> Knowing last few Transaction History<br /> 
-   -> Removing Limit<br /> 
-   -> Knowing total transaction<br /> 
+    knowing Limit of transaction<br /> 
+     knowing last few transation details <br /> 
+    Removing Limit<br /> 
+     Knowing total transaction<br /> 
 -> Transfer<br /> 
 -> Bank System :<br /> 
-   -> For Different Bank Atm additional charges will be applied<br /> <br /> 
--> Atm card <br /> <br /> 
--> Otp <br /> <br /> 
--> Receipt option<br <br /> /> 
+     For Different Bank Atm additional charges will be applied<br />
+-> Atm card <br />
+-> Otp <br />  
+-> Receipt option<br/ > 
 -> Mini statement<br /> <br /> 
 -> Changing Personal Info<br /> 
 -> Forgot Password Option<br /> 
