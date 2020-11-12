@@ -5,55 +5,55 @@ How to Use :<br />
 It's very simple ...<br />  
 Just :<br /> 
 Make your Account<br />   
-And start Checking for various Features 
-You will be given an Account No. do remember for later using your account, yes your Pin too which you can surely change later
+And start Checking for various Features <br /> 
+You will be given an Account No. do remember for later using your account, yes your Pin too which you can surely change later<br /> 
 
 
-Features :
--> Deposit
--> Check Balance
--> Account Info
--> Withdrawal
--> Admin Control :
-   -> Applying Limit of transaction
-   -> Knowing last few Transaction History
-   -> Removing Limit
-   -> Knowing total transaction
--> Transfer
--> Bank System :
-   -> For Different Bank Atm additional charges will be applied
--> Atm card 
--> Otp 
--> Receipt option
--> Mini statement
--> Changing Personal Info
--> Forgot Password Option
--> All class separated
+Features :<br /> 
+-> Deposit<br /> 
+-> Check Balance<br /> 
+-> Account Info<br /> 
+-> Withdrawal<br /> 
+-> Admin Control :<br /> 
+   -> Applying Limit of transaction<br /> 
+   -> Knowing last few Transaction History<br /> 
+   -> Removing Limit<br /> 
+   -> Knowing total transaction<br /> 
+-> Transfer<br /> 
+-> Bank System :<br /> 
+   -> For Different Bank Atm additional charges will be applied<br /> <br /> 
+-> Atm card <br /> <br /> 
+-> Otp <br /> <br /> 
+-> Receipt option<br <br /> /> 
+-> Mini statement<br /> <br /> 
+-> Changing Personal Info<br /> 
+-> Forgot Password Option<br /> 
+-> All class separated<br /> 
 
-Classes : 
+Classes : <br /> 
 
--> Atm (driver)
--> Admin
--> Global
--> Features
--> Database
--> Implementer
--> Customer
--> OtpHandler
--> ValidateCustomer
--> TransactionDetails
+-> Atm (driver)<br /> 
+-> Admin<br /> 
+-> Global<br /> 
+-> Features<br /> 
+-> Database<br /> 
+-> Implementer<br /> 
+-> Customer<br /> 
+-> OtpHandler<br /> 
+-> ValidateCustomer<br /> 
+-> TransactionDetails<br /> 
 
 
-Interface :
+Interface :<br /> 
 
--> Components
+-> Components<br /> 
 
-Common Constraints :
+Common Constraints :<br /> 
 
--> Otp
--> Changing Details
--> Mini statement
--> Transfer
+-> Otp<br /> 
+-> Changing Details<br /> 
+-> Mini statement<br /> 
+-> Transfer<br /> 
 
 
 
