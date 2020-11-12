@@ -25,8 +25,8 @@ Features :<br />
      For Different Bank Atm additional charges will be applied<br />
 -> Atm card <br />
 -> Otp <br />  
--> Receipt option<br/ > 
--> Mini statement<br /> <br /> 
+-> Receipt option<br /> 
+-> Mini statement<br /> 
 -> Changing Personal Info<br /> 
 -> Forgot Password Option<br /> 
 -> All class separated<br /> 
