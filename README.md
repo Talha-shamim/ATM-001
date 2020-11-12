@@ -4,7 +4,7 @@ This is code of Atm machine using Java (lab Assignment)
 How to Use :
 It's very simple ... 
 Just :
-Make your Account 
+Make your Account  
 And start Checking for various Features 
 You will be given an Account No. do remember for later using your account, yes your Pin too which you can surely change later
 
